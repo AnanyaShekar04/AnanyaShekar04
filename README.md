@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ananya Shekar</h1>
 <h3 align="center">Electrical Engineer | Research Intern | AI & Automation Enthusiast</h3>
 
+- 🎓 I’m currently pursuing my **M.Sc. in Electrical Engineering and Information Technology at OVGU Magdeburg.**
+
 - 🔭 I’m currently working on **Developing structural-acoustic interaction models in COMSOL Multiphysics for non-invasive sensing at ifak.**
 
 - 🌱 I’m currently learning **LLM Fine-tuning with DeepSeek-R1 for industrial automation**

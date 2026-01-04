@@ -31,6 +31,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+
 </p>
 
 <br/>
@@ -40,6 +41,9 @@
 <img src="https://img.shields.io/badge/KNIME-FFDE00?style=for-the-badge&logo=knime&logoColor=black" alt="KNIME" /> &nbsp;
 <img src="https://img.shields.io/badge/COMSOL-800000?style=for-the-badge&logo=comsol&logoColor=white" alt="COMSOL" /> &nbsp;
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Zotero-CC0000?style=for-the-badge&logo=zotero&logoColor=white" alt="Zotero" /> &nbsp;
+<img src="https://img.shields.io/badge/ResearchRabbit-6425FF?style=for-the-badge&logo=researchrabbit&logoColor=white" alt="ResearchRabbit" />
+
 </p>
 
 <br/>

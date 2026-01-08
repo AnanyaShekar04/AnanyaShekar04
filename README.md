@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananya Shekar</h1>
-<h3 align="center">Electrical Engineer | Research Intern | AI & Automation Enthusiast</h3>
+<h3 align="center">Electrical Engineer | Intern | AI & Automation Enthusiast</h3>
 
 - 🎓 I’m currently pursuing my **M.Sc. in Electrical Engineering and Information Technology at OVGU Magdeburg.**
 
